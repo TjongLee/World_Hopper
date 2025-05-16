@@ -4,53 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a707b044de586f6f",
+        "id": "6c87aa4c278a7446",
         "type": "tabs",
         "children": [
           {
-            "id": "75c9618edf9dca3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arc 1/Arc 1 - overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arc 1 - overview"
-            }
-          },
-          {
-            "id": "220fad0253bbec14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds/Musical World.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Musical World"
-            }
-          },
-          {
-            "id": "a047d429deb4f6a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds/Mutant World.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mutant World"
-            }
-          },
-          {
-            "id": "fd65a0e20147d3b4",
+            "id": "acf2eb91509f864b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,79 +22,21 @@
             }
           },
           {
-            "id": "998dde9a14f73f7f",
+            "id": "458200a98b37751d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arc 1/Arc 1 - overview.md",
+                "file": "Worlds/Rune World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arc 1 - overview"
-            }
-          },
-          {
-            "id": "d63d4f0b61989c11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Toma.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Toma"
-            }
-          },
-          {
-            "id": "746120532f08482a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Hopper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hopper"
-            }
-          },
-          {
-            "id": "d34a0ba2bb09b800",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Art references.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Art references"
+              "title": "Rune World"
             }
           }
         ],
-        "currentTab": 7
-      },
-      {
-        "id": "75604e8d8c0c72b7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f19a41898443a556",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -283,14 +183,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d34a0ba2bb09b800",
+  "active": "458200a98b37751d",
   "lastOpenFiles": [
-    "Worlds/Tomte World.md",
+    "Characters/Main Group/Hopper.md",
     "Worlds/Rune World.md",
-    "Worlds/Mutant World.md",
-    "Worlds/Musical World.md",
-    "Arc 1/Arc 1 - overview.md",
+    "Characters/Main Group/Main Group.md",
+    "Characters/Main Group/Fly guy.md",
+    "Characters/Main Group/Tomte.md",
+    "Characters/Main Group/Toma.md",
+    "Characters/Main Group/Singer.md",
+    "Characters/Main Group/Jude.md",
+    "Characters/Slime guy.md",
+    "Characters/Main Group",
+    "Worlds/Tomte World.md",
+    "Snake Magic/Runes.md",
+    "Snake Magic",
+    "Art references.md",
+    "Characters/CEO guy.md",
+    "Characters/Casimir.md",
+    "Objects/Toma's Axe.md",
+    "Idea vault.md",
+    "Timeline.md",
+    "Objects",
     "Arc 1/Chapter 1.md",
+    "Arc 1/Arc 1 - overview.md",
+    "Worlds/Musical World.md",
+    "Worlds/Mutant World.md",
     "Characters/Innkeeper.md",
     "Attachments/Page_10.jpg",
     "Attachments/Page_9.jpg",
@@ -303,21 +221,8 @@
     "Attachments/Page 4.jpg",
     "Attachments/Page 10.jpg",
     "Attachments",
-    "Untitled.md",
-    "Timeline.md",
     "Characters/Braid lady.md",
     "Characters/Little girl.md",
-    "Characters/Casimir.md",
-    "Characters/CEO guy.md",
-    "Idea vault.md",
-    "Art references.md",
-    "Characters/Jude.md",
-    "Characters/Fly guy.md",
-    "Characters/Slime guy.md",
-    "Characters/Singer.md",
-    "Characters/Tomte.md",
-    "Characters/Hopper.md",
-    "Characters/Toma.md",
     "Characters",
     "Worlds",
     "Arc 1"
