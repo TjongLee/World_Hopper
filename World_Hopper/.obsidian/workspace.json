@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6c87aa4c278a7446",
+        "id": "aed7dc80b084b17d",
         "type": "tabs",
         "children": [
           {
-            "id": "acf2eb91509f864b",
+            "id": "262ade3d2caf6fbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds/Rune World.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Rune World"
-            }
-          },
-          {
-            "id": "458200a98b37751d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds/Rune World.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rune World"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,10 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "458200a98b37751d",
+  "active": "262ade3d2caf6fbf",
   "lastOpenFiles": [
-    "Characters/Main Group/Hopper.md",
+    "Snake Magic/Rune Objects.md",
+    "Snake Magic/Runes.md",
+    "Objects/Toma's Axe.md",
+    "Attachments/Page_1.jpg",
+    "Snake Magic/Snake Mythology.md",
+    "Timeline.md",
+    "Snake Magic/Runology.md",
     "Worlds/Rune World.md",
+    "Characters/Main Group/Hopper.md",
     "Characters/Main Group/Main Group.md",
     "Characters/Main Group/Fly guy.md",
     "Characters/Main Group/Tomte.md",
@@ -196,14 +184,11 @@
     "Characters/Slime guy.md",
     "Characters/Main Group",
     "Worlds/Tomte World.md",
-    "Snake Magic/Runes.md",
     "Snake Magic",
     "Art references.md",
     "Characters/CEO guy.md",
     "Characters/Casimir.md",
-    "Objects/Toma's Axe.md",
     "Idea vault.md",
-    "Timeline.md",
     "Objects",
     "Arc 1/Chapter 1.md",
     "Arc 1/Arc 1 - overview.md",
@@ -219,10 +204,7 @@
     "Attachments/Page_4.jpg",
     "Attachments/Page 5.jpg",
     "Attachments/Page 4.jpg",
-    "Attachments/Page 10.jpg",
     "Attachments",
-    "Characters/Braid lady.md",
-    "Characters/Little girl.md",
     "Characters",
     "Worlds",
     "Arc 1"
